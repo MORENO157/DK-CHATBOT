@@ -1,0 +1,18 @@
+{
+  "name": "dk-api-unificada",
+  "version": "1.0.0",
+  "description": "API unificada com Firebase Auth e Gemini",
+  "main": "api.js",
+  "scripts": {
+    "start": "node api.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "axios": "^1.6.0",
+    "firebase": "^10.5.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
